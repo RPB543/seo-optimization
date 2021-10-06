@@ -1,3 +1,4 @@
+/*inserted common properties such as color and font*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -53,7 +54,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.avif");
+    background-image: url("../images/digital-marketing-meeting-small.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -74,7 +75,8 @@ p {
     margin-left: 20px;
 }
 
-/*Reordered flow to match the html position*/
+/*Reordered flow to match the html position
+Also updated to reflect class name change in HTML*/
 .seo-qualities {
     margin-bottom: 20px;
     padding: 50px;
@@ -119,6 +121,7 @@ p {
     height: 150px
 }
 
+/*updated to reflect tag change in HTML*/
 footer {
     padding: 30px;
     clear: both;
