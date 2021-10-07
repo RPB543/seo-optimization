@@ -14,3 +14,4 @@
 
 * 🌎 https://rpb543.github.io/seo-optimization/
 * 🎪 https://github.com/RPB543
+* 🥳 https://github.com/RPB543/seo-optimization
