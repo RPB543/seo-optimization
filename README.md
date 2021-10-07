@@ -25,4 +25,4 @@
 
 ## Screenshot of Page
 
-<img src="./assets/images/screenshot.png">
+<img src="./assets/images/screenshot.png" alt="screenshot of webpage">
