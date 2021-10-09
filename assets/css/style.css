@@ -11,6 +11,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Header section*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -26,6 +27,7 @@ span {
     color: #d9dcd6;
 }
 
+/*updated nav bar and list items*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -46,10 +48,7 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
+/*Hero section - no alt needed for picture*/
 .hero {
     height: 800px;
     width: 100%;
@@ -57,6 +56,11 @@ p {
     background-image: url("../images/digital-marketing-meeting-small.jpg");
     background-size: cover;
     background-position: center;
+}
+
+/*content section*/
+p {
+    font-size: 16px;
 }
 
 .float-left {
@@ -94,6 +98,7 @@ Also updated to reflect class name change in HTML*/
     font-size: 36px;
 }
 
+/*start of benefits*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -121,7 +126,7 @@ Also updated to reflect class name change in HTML*/
     height: 150px
 }
 
-/*updated to reflect change in HTML*/
+/*footer section - updated to reflect change in HTML*/
 footer {
     padding: 30px;
     clear: both;
@@ -137,3 +142,4 @@ footer h2 {
 footer p {
     color:black
 }
+/*End of footer and page styling*/
