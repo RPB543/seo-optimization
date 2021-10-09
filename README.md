@@ -25,4 +25,4 @@
 
 ## Screenshot of Page
 
-![Screenshot](./assets/images/screenshot.png) 
+![Screenshot](./assets/images/Screenshot.png) 
